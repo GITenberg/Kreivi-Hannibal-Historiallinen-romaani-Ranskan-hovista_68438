@@ -1,0 +1,33 @@
+_repo: Kreivi-Hannibal-Historiallinen-romaani-Ranskan-hovista_68438
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Somersalo, Aili
+    gutenberg_agent_id: '54779'
+    url: http://www.gutenberg.org/2009/agents/54779
+creator:
+  author:
+    agent_name: Weyman, Stanley John
+    alias: Weyman, Stanley J. (Stanley John)
+    birthdate: 1855
+    deathdate: 1928
+    gutenberg_agent_id: '742'
+    url: http://www.gutenberg.org/2009/agents/742
+    wikipedia: https://en.wikipedia.org/wiki/Stanley_J._Weyman
+description: ''
+gutenberg_issued: '2022-07-01'
+identifiers:
+  gutenberg: '68438'
+language: fi
+pgterms:marc905: 20220326024715weyman
+pgterms:marc906: '1920'
+pgterms:marc907: FI
+production_note: Timo Ervasti and Tapio Riikonen
+publication_note: Finland :Arvi A. Karisto Oy,1920.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Kreivi Hannibal: Historiallinen romaani Ranskan hovista'
+url: http://www.gutenberg.org/ebooks/68438
