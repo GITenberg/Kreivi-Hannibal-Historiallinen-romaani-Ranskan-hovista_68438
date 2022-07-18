@@ -5,6 +5,9 @@ contributor:
     agent_name: Somersalo, Aili
     gutenberg_agent_id: '54779'
     url: http://www.gutenberg.org/2009/agents/54779
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Weyman, Stanley John
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/742
     wikipedia: https://en.wikipedia.org/wiki/Stanley_J._Weyman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68438#Kreivi-Hannibal-Historiallinen-romaani-Ranskan-hovista
 gutenberg_issued: '2022-07-01'
 identifiers:
   gutenberg: '68438'
